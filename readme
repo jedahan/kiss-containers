@@ -1,0 +1,25 @@
+# kiss-containers
+
+podman, podman-compose, and their dependencies
+aiming for rootless, simple containerization
+
+## packages
+
+ podman: rootless, daemonless docker replacement
+ podman-compose: simple, docker-compose compatible multi-container tool
+
+## tooling
+
+ crun
+ runc
+
+## dependencies
+
+ cni-plugins
+ conmon
+ fuse-overlayfs
+ go-md2man
+ libcap
+ skopeo
+ slirp4netns-bin
+ yajl
