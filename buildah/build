@@ -1,0 +1,5 @@
+#!/bin/sh -e
+
+export GIT_COMMIT="1.1.7"
+make
+make install PREFIX=/usr DESTDIR="$1"

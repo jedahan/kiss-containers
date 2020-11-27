@@ -1,0 +1,8 @@
+btrfs-progs make
+go make
+go-md2man make
+gpgme
+libassuan
+libgpg-error
+libseccomp
+lvm2
