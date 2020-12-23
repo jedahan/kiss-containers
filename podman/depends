@@ -10,5 +10,6 @@ iptables
 libseccomp
 lvm2
 runc
+shadow
 skopeo
 slirp4netns-bin
